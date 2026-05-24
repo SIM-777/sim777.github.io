@@ -1131,7 +1131,7 @@ footer {
           Works with any AI tool
         </div>
       </div>
-      <a href="#" class="btn-primary" style="font-size:16px; padding:18px 40px; margin: 0 auto;">
+      <a href="https://payhip.com/b/upQ2n" class="btn-primary" style="font-size:16px; padding:18px 40px; margin: 0 auto;">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 2v9M4 8l4 4 4-4"/><path d="M2 14h12"/></svg>
         Get the guide now
       </a>
